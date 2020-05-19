@@ -1,0 +1,6 @@
+C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\XepLoaiHocTap\bin\Debug\XepLoaiHocTap.exe.config
+C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\XepLoaiHocTap\bin\Debug\XepLoaiHocTap.exe
+C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\XepLoaiHocTap\bin\Debug\XepLoaiHocTap.pdb
+C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\XepLoaiHocTap\obj\Debug\XepLoaiHocTap.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\XepLoaiHocTap\obj\Debug\XepLoaiHocTap.exe
+C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\XepLoaiHocTap\obj\Debug\XepLoaiHocTap.pdb
