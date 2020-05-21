@@ -4,3 +4,10 @@ C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\KiemTraNhapSo\bin\D
 C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\KiemTraNhapSo\obj\Debug\KiemTraNhapSo.csproj.CoreCompileInputs.cache
 C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\KiemTraNhapSo\obj\Debug\KiemTraNhapSo.exe
 C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\KiemTraNhapSo\obj\Debug\KiemTraNhapSo.pdb
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\KiemTraNhapSo\bin\Debug\KiemTraNhapSo.exe.config
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\KiemTraNhapSo\bin\Debug\KiemTraNhapSo.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\KiemTraNhapSo\bin\Debug\KiemTraNhapSo.pdb
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\KiemTraNhapSo\obj\Debug\KiemTraNhapSo.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\KiemTraNhapSo\obj\Debug\KiemTraNhapSo.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\KiemTraNhapSo\obj\Debug\KiemTraNhapSo.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\KiemTraNhapSo\obj\Debug\KiemTraNhapSo.pdb

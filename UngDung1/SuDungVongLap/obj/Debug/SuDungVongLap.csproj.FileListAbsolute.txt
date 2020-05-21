@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungVongLap\bin\Debug\SuDungVongLap.exe.config
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungVongLap\bin\Debug\SuDungVongLap.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungVongLap\bin\Debug\SuDungVongLap.pdb
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungVongLap\obj\Debug\SuDungVongLap.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungVongLap\obj\Debug\SuDungVongLap.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungVongLap\obj\Debug\SuDungVongLap.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungVongLap\obj\Debug\SuDungVongLap.pdb

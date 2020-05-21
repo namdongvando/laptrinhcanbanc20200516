@@ -5,3 +5,10 @@ C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\PhuongTrinhBacHai\o
 C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.csproj.CoreCompileInputs.cache
 C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.exe
 C:\Users\NN\Desktop\taicode\laptrinhcanbanc20200516\UngDung1\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.pdb
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\PhuongTrinhBacHai\bin\Debug\PhuongTrinhBacHai.exe.config
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\PhuongTrinhBacHai\bin\Debug\PhuongTrinhBacHai.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\PhuongTrinhBacHai\bin\Debug\PhuongTrinhBacHai.pdb
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\PhuongTrinhBacHai\obj\Debug\PhuongTrinhBacHai.pdb

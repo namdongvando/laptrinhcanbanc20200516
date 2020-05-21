@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiemTraNhapSo", "KiemTraNha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XepLoaiHocTap", "XepLoaiHocTap\XepLoaiHocTap.csproj", "{7F3E4E87-792F-4578-82D7-35C2C00EC6E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungVongLap", "SuDungVongLap\SuDungVongLap.csproj", "{BD4505D0-01B8-410D-A880-F079F39523B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{7F3E4E87-792F-4578-82D7-35C2C00EC6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F3E4E87-792F-4578-82D7-35C2C00EC6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F3E4E87-792F-4578-82D7-35C2C00EC6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4505D0-01B8-410D-A880-F079F39523B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4505D0-01B8-410D-A880-F079F39523B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4505D0-01B8-410D-A880-F079F39523B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4505D0-01B8-410D-A880-F079F39523B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
