@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XepLoaiHocTap", "XepLoaiHoc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungVongLap", "SuDungVongLap\SuDungVongLap.csproj", "{BD4505D0-01B8-410D-A880-F079F39523B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungVongLapWhile", "SuDungVongLapWhile\SuDungVongLapWhile.csproj", "{C031B17D-0AAD-40E6-A1DF-6BB2794A569F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungMang", "SuDungMang\SuDungMang.csproj", "{4A593709-9BB4-4A55-8727-7A9DE9F5C19B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{BD4505D0-01B8-410D-A880-F079F39523B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD4505D0-01B8-410D-A880-F079F39523B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD4505D0-01B8-410D-A880-F079F39523B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C031B17D-0AAD-40E6-A1DF-6BB2794A569F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C031B17D-0AAD-40E6-A1DF-6BB2794A569F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C031B17D-0AAD-40E6-A1DF-6BB2794A569F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C031B17D-0AAD-40E6-A1DF-6BB2794A569F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A593709-9BB4-4A55-8727-7A9DE9F5C19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A593709-9BB4-4A55-8727-7A9DE9F5C19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A593709-9BB4-4A55-8727-7A9DE9F5C19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A593709-9BB4-4A55-8727-7A9DE9F5C19B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
