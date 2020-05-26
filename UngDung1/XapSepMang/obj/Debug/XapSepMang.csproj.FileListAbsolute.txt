@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\XapSepMang\bin\Debug\XapSepMang.exe.config
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\XapSepMang\bin\Debug\XapSepMang.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\XapSepMang\bin\Debug\XapSepMang.pdb
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\XapSepMang\obj\Debug\XapSepMang.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\XapSepMang\obj\Debug\XapSepMang.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\XapSepMang\obj\Debug\XapSepMang.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\XapSepMang\obj\Debug\XapSepMang.pdb
