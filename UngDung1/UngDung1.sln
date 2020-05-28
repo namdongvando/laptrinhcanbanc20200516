@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungList", "SuDungList\Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungHam", "SuDungHam\SuDungHam.csproj", "{2DA12C10-1805-4091-83B2-63081E864B8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SungDungstruct", "SungDungstruct\SungDungstruct.csproj", "{D670A84F-8BFA-4D9A-A239-F89156935136}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{2DA12C10-1805-4091-83B2-63081E864B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DA12C10-1805-4091-83B2-63081E864B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DA12C10-1805-4091-83B2-63081E864B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D670A84F-8BFA-4D9A-A239-F89156935136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D670A84F-8BFA-4D9A-A239-F89156935136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D670A84F-8BFA-4D9A-A239-F89156935136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D670A84F-8BFA-4D9A-A239-F89156935136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

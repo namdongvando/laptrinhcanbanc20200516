@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2DA12C10-1805-4091-83B2-63081E864B8A}</ProjectGuid>
+    <ProjectGuid>{D670A84F-8BFA-4D9A-A239-F89156935136}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SuDungHam</RootNamespace>
-    <AssemblyName>SuDungHam</AssemblyName>
+    <RootNamespace>SungDungstruct</RootNamespace>
+    <AssemblyName>SungDungstruct</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,8 +44,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TimUocChungLongNhatCua.cs" />
-    <Compile Include="TimUocChungLongNhatCuaaVab.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
