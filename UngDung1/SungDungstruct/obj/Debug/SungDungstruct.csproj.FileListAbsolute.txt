@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SungDungstruct\bin\Debug\SungDungstruct.exe.config
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SungDungstruct\bin\Debug\SungDungstruct.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SungDungstruct\bin\Debug\SungDungstruct.pdb
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SungDungstruct\obj\Debug\SungDungstruct.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SungDungstruct\obj\Debug\SungDungstruct.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SungDungstruct\obj\Debug\SungDungstruct.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SungDungstruct\obj\Debug\SungDungstruct.pdb

@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungClass\obj\Debug\SuDungClass.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungClass\obj\Debug\SuDungClass.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungClass\bin\Debug\SuDungClass.exe.config
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungClass\bin\Debug\SuDungClass.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungClass\bin\Debug\SuDungClass.pdb
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungClass\obj\Debug\SuDungClass.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\SuDungClass\obj\Debug\SuDungClass.pdb
