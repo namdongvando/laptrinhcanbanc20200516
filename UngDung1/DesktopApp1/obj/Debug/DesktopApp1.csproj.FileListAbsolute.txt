@@ -1,0 +1,10 @@
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\bin\Debug\DesktopApp1.exe.config
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\bin\Debug\DesktopApp1.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\bin\Debug\DesktopApp1.pdb
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.Properties.Resources.resources
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.csproj.GenerateResource.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.pdb
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.Form1.resources

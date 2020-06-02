@@ -8,6 +8,17 @@ namespace SuDungClass
 {
     class PhuongTrinhbacNhat
     {
+        public PhuongTrinhbacNhat()
+        {
+        }
+
+        public PhuongTrinhbacNhat(double soA, double soB)
+        {
+            SoA = soA;
+            SoB = soB;
+            GiaiPhuongTrinh();
+        }
+
         public double SoA { get; set; }
         public double SoB { get; set; }
         public double NghiemX { get; set; }
