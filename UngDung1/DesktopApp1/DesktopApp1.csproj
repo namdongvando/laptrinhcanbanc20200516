@@ -51,10 +51,59 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormHinhTamGiac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHinhTamGiac.Designer.cs">
+      <DependentUpon>FormHinhTamGiac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHinhTron.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHinhTron.Designer.cs">
+      <DependentUpon>FormHinhTron.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHinhVuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHinhVuong.Designer.cs">
+      <DependentUpon>FormHinhVuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTimer.Designer.cs">
+      <DependentUpon>FormTimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lib\HinhHoc.cs" />
+    <Compile Include="Lib\HinhTamGiac.cs" />
+    <Compile Include="Lib\HinhTron.cs" />
+    <Compile Include="Lib\HinhVuong.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHinhTamGiac.resx">
+      <DependentUpon>FormHinhTamGiac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHinhTron.resx">
+      <DependentUpon>FormHinhTron.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHinhVuong.resx">
+      <DependentUpon>FormHinhVuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTimer.resx">
+      <DependentUpon>FormTimer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -64,6 +113,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -77,6 +127,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy1.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
