@@ -8,3 +8,8 @@ C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug
 C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.exe
 C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.pdb
 C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.Form1.resources
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.FormMain.resources
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.FormHinhTamGiac.resources
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.FormHinhVuong.resources
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.FormHinhTron.resources
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\DesktopApp1\obj\Debug\DesktopApp1.FormTimer.resources
