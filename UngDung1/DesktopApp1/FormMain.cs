@@ -42,7 +42,6 @@ namespace DesktopApp1
         private void formTimerToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form formHinhVuong = new FormTimer();
-            formHinhVuong.MdiParent = this;
             formHinhVuong.Show();
         }
     }

@@ -1,0 +1,11 @@
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe.config
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.pdb
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Form1.resources
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.FormDangNhap.resources
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Properties.Resources.resources
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.GenerateResource.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.exe
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.pdb
