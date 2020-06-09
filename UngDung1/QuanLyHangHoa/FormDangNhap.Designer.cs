@@ -54,6 +54,7 @@
             this.txtTaiKhoan.Name = "txtTaiKhoan";
             this.txtTaiKhoan.Size = new System.Drawing.Size(265, 20);
             this.txtTaiKhoan.TabIndex = 2;
+            this.txtTaiKhoan.Text = "admin";
             this.txtTaiKhoan.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label2
@@ -74,6 +75,7 @@
             this.txtMatKhau.PasswordChar = '*';
             this.txtMatKhau.Size = new System.Drawing.Size(265, 20);
             this.txtMatKhau.TabIndex = 5;
+            this.txtMatKhau.Text = "123456";
             // 
             // label3
             // 

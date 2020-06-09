@@ -59,5 +59,17 @@ namespace QuanLyHangHoa
                 e.Cancel = true;
             }
         }
+
+        private void thêmLoạiHàngHóaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void danhSáchLoạiHàngHóaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form fDanhSachHangHoa = new FormDanhSachHangHoa();
+            //fDanhSachHangHoa.MdiParent = this;
+            fDanhSachHangHoa.Show();
+        }
     }
 }
