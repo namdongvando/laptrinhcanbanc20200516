@@ -12,3 +12,4 @@ C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\obj\Deb
 C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\bin\Debug\DBQuanLyHangHoa.mdf
 C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\bin\Debug\DBQuanLyHangHoa_log.ldf
 C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.FormDanhSachHangHoa.resources
+C:\Users\NN\Desktop\Share\laptrinhcanbanc20200516\UngDung1\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.FormThemLoaiHangHoa.resources

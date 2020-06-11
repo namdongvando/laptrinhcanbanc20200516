@@ -1,0 +1,20 @@
+  var connectionString = ConfigurationManager.ConnectionStrings["SuDungSQLServer.Properties.Settings.MyeStoreConnectionString"].ConnectionString;
+
+            // Provide the query string with a parameter placeholder.
+            string queryString = "Select *  from NhaCungCap";
+
+            using (SqlConnection connection =
+                new SqlConnection(connectionString))
+            {
+                // Create the Command and Parameter objects.
+                SqlCommand command = new SqlCommand(queryString, connection);
+                connection.Open();
+                SqlDataReader reader = command.ExecuteReader();
+                while (reader.Read())
+                {
+                    MessageBox.Show(reader[0].ToString());
+                }
+                reader.Close();
+
+
+            }

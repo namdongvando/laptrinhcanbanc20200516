@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopApp1", "DesktopApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyHangHoa", "QuanLyHangHoa\QuanLyHangHoa.csproj", "{72658EA0-5356-443F-8DCF-6A2BFFAFDB42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungSQLServer", "SuDungSQLServer\SuDungSQLServer.csproj", "{AAB7718A-FBBD-499E-A779-12CF5BA7B063}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{72658EA0-5356-443F-8DCF-6A2BFFAFDB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72658EA0-5356-443F-8DCF-6A2BFFAFDB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72658EA0-5356-443F-8DCF-6A2BFFAFDB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB7718A-FBBD-499E-A779-12CF5BA7B063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB7718A-FBBD-499E-A779-12CF5BA7B063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB7718A-FBBD-499E-A779-12CF5BA7B063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB7718A-FBBD-499E-A779-12CF5BA7B063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
