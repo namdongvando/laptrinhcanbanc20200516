@@ -67,13 +67,13 @@
             // thêmNhàCCToolStripMenuItem
             // 
             this.thêmNhàCCToolStripMenuItem.Name = "thêmNhàCCToolStripMenuItem";
-            this.thêmNhàCCToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.thêmNhàCCToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
             this.thêmNhàCCToolStripMenuItem.Text = "Thêm Nhà CC";
             // 
             // danhSáchNhàCCToolStripMenuItem
             // 
             this.danhSáchNhàCCToolStripMenuItem.Name = "danhSáchNhàCCToolStripMenuItem";
-            this.danhSáchNhàCCToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.danhSáchNhàCCToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
             this.danhSáchNhàCCToolStripMenuItem.Text = "Danh Sách Nhà CC";
             this.danhSáchNhàCCToolStripMenuItem.Click += new System.EventHandler(this.danhSáchNhàCCToolStripMenuItem_Click);
             // 
@@ -97,6 +97,7 @@
             this.danhSáchLoạiToolStripMenuItem.Name = "danhSáchLoạiToolStripMenuItem";
             this.danhSáchLoạiToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.danhSáchLoạiToolStripMenuItem.Text = "Danh Sách Loại";
+            this.danhSáchLoạiToolStripMenuItem.Click += new System.EventHandler(this.danhSáchLoạiToolStripMenuItem_Click);
             // 
             // hàngHóaToolStripMenuItem
             // 
@@ -122,7 +123,7 @@
             // thoátToolStripMenuItem
             // 
             this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
-            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(50, 20);
+            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
             this.thoátToolStripMenuItem.Text = "Thoát";
             // 
             // Form1
@@ -132,7 +133,7 @@
             this.ClientSize = new System.Drawing.Size(533, 292);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.menuStrip1.ResumeLayout(false);

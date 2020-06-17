@@ -83,6 +83,8 @@
             this.dgvNCC.Name = "dgvNCC";
             this.dgvNCC.Size = new System.Drawing.Size(544, 511);
             this.dgvNCC.TabIndex = 0;
+            this.dgvNCC.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvNCC_CellContentClick);
+            this.dgvNCC.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvNCC_CellContentClick);
             // 
             // maNCCDataGridViewTextBoxColumn
             // 
@@ -289,6 +291,7 @@
             this.btnSua.TabIndex = 18;
             this.btnSua.Text = "Sửa";
             this.btnSua.UseVisualStyleBackColor = true;
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
             // btnXoa
             // 
@@ -298,6 +301,7 @@
             this.btnXoa.TabIndex = 19;
             this.btnXoa.Text = "Xóa";
             this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // nhaCungCapTableAdapter
             // 

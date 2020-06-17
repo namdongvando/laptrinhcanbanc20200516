@@ -71,12 +71,20 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoai.Designer.cs">
+      <DependentUpon>FormLoai.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormNhaCungCap.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormNhaCungCap.Designer.cs">
       <DependentUpon>FormNhaCungCap.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lib\LoaiService.cs" />
+    <Compile Include="Lib\Loai.cs" />
     <Compile Include="MyeStoreDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -88,6 +96,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoai.resx">
+      <DependentUpon>FormLoai.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormNhaCungCap.resx">
       <DependentUpon>FormNhaCungCap.cs</DependentUpon>

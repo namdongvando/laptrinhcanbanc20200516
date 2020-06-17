@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -32,9 +32,15 @@ namespace SuDungSQLServer
             MessageBox.Show("Thanks!");
         }
 
-        private void danhS�chNh�CCToolStripMenuItem_Click(object sender, EventArgs e)
+        private void danhSáchNhàCCToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form fNCC = new FormNhaCungCap();
+            fNCC.Show();
+        }
+
+        private void danhSáchLoạiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form fNCC = new FormLoai();
             fNCC.Show();
         }
     }
