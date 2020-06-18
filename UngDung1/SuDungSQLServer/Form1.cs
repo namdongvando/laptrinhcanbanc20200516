@@ -43,5 +43,11 @@ namespace SuDungSQLServer
             Form fNCC = new FormLoai();
             fNCC.Show();
         }
+
+        private void thêmHàngHóaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form fThemhanghoa = new FormThemHangHoa();
+            fThemhanghoa.Show();
+        }
     }
 }

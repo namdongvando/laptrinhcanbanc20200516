@@ -39,3 +39,4 @@ D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungSQLServ
 D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungSQLServer\obj\Debug\SuDungSQLServer.exe
 D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungSQLServer\obj\Debug\SuDungSQLServer.pdb
 D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungSQLServer\obj\Debug\SuDungSQLServer.FormLoai.resources
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungSQLServer\obj\Debug\SuDungSQLServer.FormThemHangHoa.resources
