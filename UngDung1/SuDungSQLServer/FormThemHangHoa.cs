@@ -23,6 +23,9 @@ namespace SuDungSQLServer
             try
             {
                 HangHoa hh = GetInputForm();
+                HangHoaService hangHoaService = new HangHoaService();
+                hangHoaService.Add(hh);
+                this.Close();
             }
             catch (Exception ex)
             {

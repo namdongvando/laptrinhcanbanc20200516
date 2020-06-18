@@ -71,6 +71,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormDanhSachHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDanhSachHangHoa.Designer.cs">
+      <DependentUpon>FormDanhSachHangHoa.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormLoai.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,6 +96,7 @@
       <DependentUpon>FormThemHangHoa.cs</DependentUpon>
     </Compile>
     <Compile Include="Lib\HangHoa.cs" />
+    <Compile Include="Lib\HangHoaService.cs" />
     <Compile Include="Lib\LoaiService.cs" />
     <Compile Include="Lib\Loai.cs" />
     <Compile Include="MyeStoreDataSet.Designer.cs">
@@ -103,6 +110,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDanhSachHangHoa.resx">
+      <DependentUpon>FormDanhSachHangHoa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormLoai.resx">
       <DependentUpon>FormLoai.cs</DependentUpon>

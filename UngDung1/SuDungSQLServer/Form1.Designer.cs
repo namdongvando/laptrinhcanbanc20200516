@@ -120,6 +120,7 @@
             this.danhSáchHàngHóaToolStripMenuItem.Name = "danhSáchHàngHóaToolStripMenuItem";
             this.danhSáchHàngHóaToolStripMenuItem.Size = new System.Drawing.Size(187, 22);
             this.danhSáchHàngHóaToolStripMenuItem.Text = "Danh Sách Hàng Hóa";
+            this.danhSáchHàngHóaToolStripMenuItem.Click += new System.EventHandler(this.danhSáchHàngHóaToolStripMenuItem_Click);
             // 
             // thoátToolStripMenuItem
             // 
