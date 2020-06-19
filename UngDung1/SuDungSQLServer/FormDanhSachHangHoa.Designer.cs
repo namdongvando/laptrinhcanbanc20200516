@@ -31,6 +31,7 @@
             this.dgvHangHoa = new System.Windows.Forms.DataGridView();
             this.cbbLoaiHangHoa = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.txtTenHangHoa = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvHangHoa)).BeginInit();
             this.SuspendLayout();
             // 
@@ -61,11 +62,20 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "Loai Hàng Hóa";
             // 
+            // txtTenHangHoa
+            // 
+            this.txtTenHangHoa.Location = new System.Drawing.Point(40, 85);
+            this.txtTenHangHoa.Name = "txtTenHangHoa";
+            this.txtTenHangHoa.Size = new System.Drawing.Size(613, 20);
+            this.txtTenHangHoa.TabIndex = 3;
+            this.txtTenHangHoa.TextChanged += new System.EventHandler(this.txtTenHangHoa_TextChanged);
+            // 
             // FormDanhSachHangHoa
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1164, 582);
+            this.Controls.Add(this.txtTenHangHoa);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.cbbLoaiHangHoa);
             this.Controls.Add(this.dgvHangHoa);
@@ -83,5 +93,6 @@
         private System.Windows.Forms.DataGridView dgvHangHoa;
         private System.Windows.Forms.ComboBox cbbLoaiHangHoa;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtTenHangHoa;
     }
 }

@@ -52,5 +52,16 @@ namespace SuDungSQLServer
             List<HangHoa> lHangHoa = hangHoaService.GetHangHoaByMaLoai(loaiHH);
             dgvHangHoa.DataSource = lHangHoa;
         }
+
+        private void txtTenHangHoa_TextChanged(object sender, EventArgs e)
+        {
+            if (txtTenHangHoa.TextLength >= 3) {
+                string tenHH = txtTenHangHoa.Text;
+                HangHoaService hangHoaService = new HangHoaService();
+                List<HangHoa> lHangHoa = 
+                    hangHoaService.GetHangHoaByTenHH(tenHH);
+                dgvHangHoa.DataSource = lHangHoa;
+            }
+        }
     }
 }

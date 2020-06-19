@@ -78,6 +78,42 @@ namespace SuDungSQLServer
             return lNCC;
         }
 
+        public List<HangHoa> GetHangHoaByTenHH(string tenHH)
+        {
+            // Provide the query string with a parameter placeholder.
+            List<HangHoa> lNCC = new List<HangHoa>();
+            string queryString = @"Select *  from HangHoa Where 
+TenHH like @MaLoai or MaHH like @MaLoai";
+            using (SqlConnection connection =
+                new SqlConnection(ConnectionString))
+            {
+                // Create the Command and Parameter objects.
+                SqlCommand command = new SqlCommand(queryString, connection);
+                command.Parameters.AddWithValue("@MaLoai", "%"+tenHH+"%");
+                connection.Open();
+                SqlDataReader reader = command.ExecuteReader();
+                while (reader.Read())
+                {
+                    lNCC.Add(new HangHoa
+                    {
+                        MaHH = int.Parse(reader[0].ToString()),
+                        TenHH = reader[1].ToString(),
+                        MaLoai = int.Parse(reader[2].ToString()),
+                        MoTaDonVi = reader[3].ToString(),
+                        DonGia = float.Parse(reader[4].ToString()),
+                        Hinh = reader[5].ToString(),
+                        NgaySX = DateTime.Parse(reader[6].ToString()),
+                        GiamGia = float.Parse(reader[7].ToString()),
+                        SoLanXem = int.Parse(reader[8].ToString()),
+                        MoTa = reader[9].ToString(),
+                        MaNCC = reader[10].ToString()
+                    });
+                }
+                reader.Close();
+            }
+            return lNCC;
+        }
+
         public void Add(HangHoa nCC)
         {
             // Provide the query string with a parameter placeholder
