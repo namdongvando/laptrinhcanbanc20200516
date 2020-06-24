@@ -1,0 +1,12 @@
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\bin\Debug\SuDungLinQ.exe.config
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\bin\Debug\SuDungLinQ.exe
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\bin\Debug\SuDungLinQ.pdb
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\obj\Debug\SuDungLinQ.csprojAssemblyReference.cache
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\obj\Debug\SuDungLinQ.Form1.resources
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\obj\Debug\SuDungLinQ.Properties.Resources.resources
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\obj\Debug\SuDungLinQ.csproj.GenerateResource.cache
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\obj\Debug\SuDungLinQ.csproj.CoreCompileInputs.cache
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\obj\Debug\SuDungLinQ.exe
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\obj\Debug\SuDungLinQ.pdb
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\obj\Debug\SuDungLinQ.FormThemHangHoa.resources
+D:\3.Training\C#\202005LopCCanBan\laptrinhcanbanc20200516\UngDung1\SuDungLinQ\obj\Debug\SuDungLinQ.FormSuaHangHoa.resources
